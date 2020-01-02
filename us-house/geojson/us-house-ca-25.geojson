@@ -14,7 +14,7 @@
     "state_code_slug": "ca",
     "district": "25",
     "at_large": false,
-    "vacant": false,
+    "vacant": true,
     "bioguide": "H001087",
     "thomas": null,
     "opensecrets": "N00040644",
@@ -60,7 +60,7 @@
     "facebook_url": "https://www.facebook.com/KatieHillforCongress/",
     "twitter_handle": "KatieHill4CA",
     "twitter_url": "https://twitter.com/KatieHill4CA",
-    "photo_url": "https://repimages.5calls.org/us-house/512x512/katie-hill.jpg"
+    "photo_url": null
   },
   "geometry": {
     "type": "Polygon",

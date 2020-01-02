@@ -14,7 +14,7 @@
     "state_code_slug": "wi",
     "district": "7",
     "at_large": false,
-    "vacant": false,
+    "vacant": true,
     "bioguide": "D000614",
     "thomas": "2072",
     "opensecrets": "N00030967",
@@ -60,7 +60,7 @@
     "facebook_url": "https://www.facebook.com/RepSeanDuffy/",
     "twitter_handle": "RepSeanDuffy",
     "twitter_url": "https://twitter.com/RepSeanDuffy",
-    "photo_url": "https://repimages.5calls.org/us-house/512x512/sean-duffy.jpg"
+    "photo_url": null
   },
   "geometry": {
     "type": "Polygon",
