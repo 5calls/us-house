@@ -14,7 +14,7 @@
     "state_code_slug": "md",
     "district": "7",
     "at_large": false,
-    "vacant": false,
+    "vacant": true,
     "bioguide": "C000984",
     "thomas": "256",
     "opensecrets": "N00001971",
@@ -60,7 +60,7 @@
     "facebook_url": "https://www.facebook.com/elijahcummings/",
     "twitter_handle": "RepCummings",
     "twitter_url": "https://twitter.com/RepCummings",
-    "photo_url": "https://repimages.5calls.org/us-house/512x512/elijah-cummings.jpg"
+    "photo_url": null
   },
   "geometry": {
     "type": "Polygon",
