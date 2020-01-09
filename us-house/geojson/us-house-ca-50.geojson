@@ -14,7 +14,7 @@
     "state_code_slug": "ca",
     "district": "50",
     "at_large": false,
-    "vacant": false,
+    "vacant": true,
     "bioguide": "H001048",
     "thomas": "1909",
     "opensecrets": "N00029258",
@@ -60,7 +60,7 @@
     "facebook_url": "https://www.facebook.com/DuncanHunter/",
     "twitter_handle": "Rep_Hunter",
     "twitter_url": "https://twitter.com/Rep_Hunter",
-    "photo_url": "https://repimages.5calls.org/us-house/512x512/duncan-hunter.jpg"
+    "photo_url": null
   },
   "geometry": {
     "type": "GeometryCollection",
