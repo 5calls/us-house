@@ -57,9 +57,9 @@
     "address_type": null,
     "website": "https://bost.house.gov",
     "contact_page": "https://bost.house.gov/contact/email",
-    "facebook_url": "https://www.facebook.com/RepBost/",
-    "twitter_handle": null,
-    "twitter_url": null,
+    "facebook_url": "https://facebook.com/RepBost",
+    "twitter_handle": "RepBost",
+    "twitter_url": "https://twitter.com/RepBost",
     "photo_url": "https://repimages.5calls.org/us-house/512x512/mike-bost.jpg"
   },
   "geometry": {

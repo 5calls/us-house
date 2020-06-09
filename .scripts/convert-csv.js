@@ -99,7 +99,7 @@ if (fs.existsSync(core)) {
       } else if (data.vacant !== 'yes' && data.twitter_url !== '' && data.twitter_url.indexOf('https://twitter.com/') === -1) {
         console.error('× Invalid Twitter URL for ');
         return false;
-      } else if (data.vacant !== 'yes' && data.facebook_url !== '' && data.facebook_url.indexOf('https://www.facebook.com') === -1) {
+      } else if (data.vacant !== 'yes' && data.facebook_url !== '' && data.facebook_url.indexOf('https://facebook.com') === -1) {
         console.error('× Invalid Facebook URL for ' + data.first_name + ' ' + data.last_name);
         return false;
       }
